@@ -100,6 +100,9 @@ Other inference options include:
 
 **Disclaimer:** the results can vary due to the stochasticity of the denoising process. Moreover, the models were trained using an earlier version of pytorch. Porting them to a newer seems to cause some minor numerical discrepancies.
 
+## Training
+The training code will be provided soon.
+
 ## :mortar_board: Citation
 ```
 @inproceedings{GalessoECCV2024,
